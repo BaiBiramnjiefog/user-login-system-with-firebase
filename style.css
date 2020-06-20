@@ -1,0 +1,14 @@
+.card{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+   .alert{
+       text-align: center;
+       padding: 10px;
+       background: #79c879;
+       color:#fff;
+       margin-bottom: 10px;
+       display:none;
+   }
